@@ -1,0 +1,6 @@
+nome = input("Qual seu nome?: ")
+nascimento = input("Qual seu ano de nascimento?: ")
+email = input("Qual seu e-mail?: ")
+print(nome)
+print(nascimento)
+print(email)
